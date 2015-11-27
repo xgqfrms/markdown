@@ -255,7 +255,6 @@ Copyright 2015, [Austin Anderson](http://protractor.ninja/). Licensed to Markdow
 ![Dos Equis man says](https://raw.github.com/adam-p/markdown-here/master/store-assets/dos-equis-MDH.jpg)
 
 ``` html
-&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;
 
 Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。
 它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。
@@ -269,5 +268,4 @@ Markdown同时还是一个由Gruber编写的Perl脚本：Markdown.pl。
 Markdown也已经被其他人用Perl和别的编程语言重新实现，其中一个Perl模块放在了CPAN(Text::Markdown)上。
 它基于一个BSD风格的许可证分发并可以作为几个内容管理系统的插件。
 
-
-## &sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect; &sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect; &sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;&sect;
+``` 
